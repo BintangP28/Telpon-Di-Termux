@@ -1,1 +1,0 @@
-# Telpon-Di-Termux
