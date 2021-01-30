@@ -28,7 +28,7 @@
   
   
  
-<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp </a>.</p>
 </div>
 
 # 📞TERMUX-TELPON📞
@@ -41,5 +41,7 @@ Simple
 ---------
 
 # About 🖇️
-[`Instagram`](https://Instagram.com/bintangp_28) <sosmed>
-[`Whatsapp`](https://wa.me/6283813304760)
+<p align="center"><a href="https://instagram.com/bintangp_28?text=%23menu" target="_blank">My Instagram </a>.</p>
+</div>
+<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp </a>.</p>
+</div>
