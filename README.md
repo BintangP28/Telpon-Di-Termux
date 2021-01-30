@@ -40,14 +40,3 @@ Simple
 > termux-telephony-call 08xxxxxxxxxx <--- no yg mau di tlpn
 ---------
 
-## Things I Code With
-<p>
-    <img
-        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  
-  
- 
-<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp </a>.</p>
-</div>
