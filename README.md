@@ -57,5 +57,3 @@ Simple
 > pkg install termux-api
 > termux-telephony-call 08xxxxxxxxxx <--- no yg mau di tlpn
 
-# SOSIAL MEDIA
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
