@@ -8,5 +8,5 @@ Simple
 ---------
 
 # About 🖇️
-[```Instagram```](https://Instagram.com/bintangp_28) <sosmed>
+[`Instagram`](https://Instagram.com/bintangp_28) <sosmed>
 [`Whatsapp`](https://wa.me/6283813304760)
