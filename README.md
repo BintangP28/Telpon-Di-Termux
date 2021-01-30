@@ -55,15 +55,6 @@ Simple
 ## FOR TERMUX USER
 ```bash
 > pkg install termux-api
-> termux-telephony-call 08xxxxxxxxxx <--- no yg mau di tlpn```
+> termux-telephony-call 08xxxxxxxxxx <--- no yg mau di tlpn
 ----------
 
-# SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-```bash
-* [`WhatsApp`](https://wa.me/6283813304760)
-* [`Instagram`](https://instagram.com/bintangp_28)
-
-
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-```bash
-* [`Klik`](https://wa.me/6283813304760+Mau+Donasi)
