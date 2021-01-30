@@ -40,12 +40,4 @@ Simple
 > termux-telephony-call 08xxxxxxxxxx <--- no yg mau di tlpn
 ---------
 
-# About 🖇️
-
-
-<p align="center"><a href="https://instagram.com/bintangp_28?text=%23menu" target="_blank">My Instagram </a>.</p>
-</div>
-
-
-<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp </a>.</p>
-</div>
+# About🖇️
